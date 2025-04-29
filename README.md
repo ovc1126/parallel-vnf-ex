@@ -15,7 +15,7 @@
 ---
 ## 2. 네트워크 토폴로지
 
-![VNF 실험 토폴로지](images/topology.png)
+![VNF 실험 토폴로지](images/topology.svg)
 
 ---
 ## 3. 상세 설명
